@@ -115,8 +115,8 @@ audio {
 @media screen and (max-width: 900px) {
   h1 {
     margin-left: -146px;
-    font-size: 24px;
-    margin-top: -27px;
+    font-size: 18px;
+    
   }
   .image img {
     height: auto;
@@ -135,4 +135,8 @@ audio {
     width: 150px;
     height: 150px;
   }
+  body .birthday_inner__stage h2 {
+    margin-left: -93px;
+   }
+   
 }

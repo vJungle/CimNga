@@ -618,4 +618,8 @@ svg {
     font-size: 21px;
     color: #e77572;
   }
+  body .birthday_inner__stage h2 {
+    margin-left: -93px;
+   }
+   
 }
